@@ -1,0 +1,6 @@
+framework module YSRouter {
+  umbrella header "YSRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}

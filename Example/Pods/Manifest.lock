@@ -1,0 +1,18 @@
+PODS:
+  - YSRouter (0.1.0):
+    - YSRouter/no-arc (= 0.1.0)
+  - YSRouter/no-arc (0.1.0)
+
+DEPENDENCIES:
+  - YSRouter (from `../`)
+
+EXTERNAL SOURCES:
+  YSRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YSRouter: 9567b5c22b69a688314ed0093c9675543e984d67
+
+PODFILE CHECKSUM: ff1ad19f69ce4e25a6e731653b8170959628fc17
+
+COCOAPODS: 1.2.0
