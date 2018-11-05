@@ -35,10 +35,8 @@
     
     if(methodSignature == nil)
     {
-        if (DEBUG){
-            NSString *desc = [NSString stringWithFormat:@"%@ 找不到 %@ 方法 ， 参数：%@",self,eventName,paramArr];
-            @throw [NSException exceptionWithName:@"抛异常错误" reason:desc userInfo:nil];
-        }
+        NSString *desc = [NSString stringWithFormat:@"%@ 找不到 %@ 方法 ， 参数：%@",self,eventName,paramArr];
+        @throw [NSException exceptionWithName:@"抛异常错误" reason:desc userInfo:nil];
     }
     else
     {
