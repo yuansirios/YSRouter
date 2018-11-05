@@ -3,8 +3,4 @@ use_frameworks!
 target 'YSRouter_Example' do
   pod 'YSRouter', :path => '../'
 
-  target 'YSRouter_Tests' do
-    inherit! :search_paths
-
-  end
 end

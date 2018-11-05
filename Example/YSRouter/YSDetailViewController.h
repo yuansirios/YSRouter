@@ -2,7 +2,7 @@
 //  YSDetailViewController.h
 //  YSRouter
 //
-//  Created by 18336 on 2018/6/20.
+//  Created by yuan on 2018/6/20.
 //  Copyright © 2018年 yuansirios. All rights reserved.
 //
 
